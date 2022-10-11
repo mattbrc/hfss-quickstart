@@ -1,5 +1,5 @@
 # hfss-quickstart
-Python HFSS Interface to quickly get started with design + analysis. 
+Electromagnetic spectrum simulation Python Interface to quickly get started with design + analysis. 
 
 Ansys High Frequency Simulation Software (HFSS) is a 3D design + analysis program for the electromagnetic spectrum. One common type of antenna that requires digital analysis prior to producing the hardware is the E-patch antenna, shown below. 
 
